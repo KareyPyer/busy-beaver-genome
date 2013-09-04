@@ -1,0 +1,45 @@
+
+******** Search completed in 2.475 secs ********
+
+Population size  : 200
+Generations      : 20
+Mutation Rate    : 1/5
+Machine States   : 3
+Shift Limit      : 100
+Fitness weights: 
+  Weight a   : 1/50
+  Weight b   : 1/20
+  Weight c   : 1/50
+  Weight d   : 1/30
+  Weight e   : 1200
+  Weight f   : 1/50
+  Weight g   : 1/30
+  Weight h   : 1
+  Weight i   : 700
+
+**************************************************
+
+
+******************* best fit *********************
+Machine #: (1 1 2 0 1 3 0 1 0 1 1 2 0 0 1 1 1 2)
+States: 3
+
+State   Read    Write   Move    Next-State
+1       0       1       1       2
+1       1       0       1       3
+2       0       0       1       0
+2       1       1       1       2
+3       0       0       0       1
+3       1       1       1       2
+
+Fitness Score       : 1904.2367
+Halted              : T
+Sigma               : 1
+Shifts              : 2
+Last State          : 0
+Last Position       : 2
+Length Traversed    : 3
+Avg Block Size      : 1.0
+Max Block Size      : 1
+Condensed Tape: (1)
+**************************************************
